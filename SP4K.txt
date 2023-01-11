@@ -1,0 +1,9 @@
+WrightUpdate=1
+WrightSplat1Scale=14
+WrightSplat1NormalScale=0.1f
+WrightSplat2Scale=500
+WrightSplat2NormalScale=0.5f
+WrightSplat3Scale=250
+WrightSplat3NormalScale=0.5f
+WrightSplat4Scale=500
+WrightSplat4NormalScale=0.5f
